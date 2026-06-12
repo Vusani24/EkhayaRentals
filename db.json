@@ -1,0 +1,22 @@
+{
+  "rooms": {
+    "pending": [],
+    "approved": [],
+    "taken": [],
+    "declined": [],
+    "removed": []
+  },
+  "reviews": {
+    "pending": [],
+    "approved": [],
+    "declined": []
+  },
+  "reports": {
+    "pending": [],
+    "approved": [],
+    "declined": []
+  },
+  "settings": {
+    "driveFolder": ""
+  }
+}
